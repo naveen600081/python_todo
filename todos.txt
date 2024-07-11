@@ -9,6 +9,7 @@ streaches
 play with baby
 learn coding
 learn devops
-default function
 testing modules
 test function
+learn python
+fix problems
